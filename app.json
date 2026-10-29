@@ -11,6 +11,7 @@
     "environments": [],
     "modules": [],
     "properties": {
+      "title": "Tet",
       "version": "1.0.0-SNAPSHOT"
     },
     "themes": []
