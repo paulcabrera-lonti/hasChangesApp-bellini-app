@@ -1,0 +1,40 @@
+{
+  "children": [
+    {
+      "attributes": [
+        {
+          "property": "data-id",
+          "value": "weXSfM"
+        }
+      ],
+      "children": [],
+      "classList": [],
+      "comments": "",
+      "conditionalClasses": [],
+      "conditionalStyles": [],
+      "contentType": "text",
+      "displayExpression": "",
+      "elementId": "",
+      "events": {},
+      "expressions": [],
+      "id": "6ae2c07df14157d66a9a8e55",
+      "iterate": {
+        "array": "",
+        "trackByIndex": false,
+        "variable": ""
+      },
+      "name": "comp",
+      "nodeName": "comp",
+      "ownerId": "6ae2be47f14157d66a9a8e46",
+      "ownerName": "hasChangesApp",
+      "ownerType": "app",
+      "styles": [],
+      "type": "custom-component"
+    }
+  ],
+  "name": "new",
+  "params": {},
+  "type": "page",
+  "url": "/new",
+  "variables": []
+}
