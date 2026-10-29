@@ -35,6 +35,11 @@
     "services": [],
     "stylesheets": []
   },
+  "localScripts": [
+    {
+      "path": "ks.js"
+    }
+  ],
   "name": "hasChangesApp",
   "type": "app"
 }
