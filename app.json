@@ -1,0 +1,39 @@
+{
+  "config": {
+    "auth": {
+      "enabled": false,
+      "mockedUserAccounts": []
+    },
+    "config": {
+      "parameters": [],
+      "script": ""
+    },
+    "environments": [],
+    "modules": [],
+    "properties": {
+      "version": "1.0.0-SNAPSHOT"
+    },
+    "themes": []
+  },
+  "defaultPage": "home",
+  "directories": {
+    "assets": [
+      {
+        "id": "fYkRNbwrRHU73XTj-FGzo",
+        "name": "dir"
+      }
+    ],
+    "components": [
+      {
+        "id": "gOYA4vOBxciJq01IOXxMI",
+        "name": "dir"
+      }
+    ],
+    "pages": [],
+    "scripts": [],
+    "services": [],
+    "stylesheets": []
+  },
+  "name": "hasChangesApp",
+  "type": "app"
+}
